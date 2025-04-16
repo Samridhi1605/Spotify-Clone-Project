@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Clone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Spotify Clone</h1>
+        </header>
+        <main>
+            <div class="song-list">
+                <div class="song" onclick="playSong('assets/song1.mp3')">
+                    <img src="assets/cover1.jpg" alt="Cover 1">
+                    <p>Song One - Artist A</p>
+                </div>
+                <div class="song" onclick="playSong('assets/song2.mp3')">
+                    <img src="assets/cover2.jpg" alt="Cover 2">
+                    <p>Song Two - Artist B</p>
+                </div>
+            </div>
+            <audio id="audioPlayer" controls></audio>
+        </main>
+        <footer>
+            <p>Clone by You ❤️</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
