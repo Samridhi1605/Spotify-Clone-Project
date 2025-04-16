@@ -30,7 +30,7 @@ spotify-clone/ │ ├── index.html # Main HTML file ├── style.css # S
 
 ## 📸 Screenshots
 
-*(Add screenshots of your project UI here once hosted or running locally)*
+(https://github.com/Samridhi1605/Spotify-Clone-Project/blob/8c635dec206972097ac0ac7a521d103b97bd1660/Screenshot%202025-04-16%20171838.jpg)
 
 ---
 
