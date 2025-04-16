@@ -30,7 +30,7 @@ spotify-clone/ │ ├── index.html # Main HTML file ├── style.css # S
 
 ## 📸 Screenshots
 
-(https://github.com/Samridhi1605/Spotify-Clone-Project/blob/8c635dec206972097ac0ac7a521d103b97bd1660/Screenshot%202025-04-16%20171838.jpg)
+![screenshot](https://github.com/Samridhi1605/Responsive-Landing-Page---The-Reading-Bistro/blob/3de89ab9f2214a29e500cd6327a6a3c9c50676f5/Screenshot%202025-04-16%20165743.jpg)
 
 ---
 
